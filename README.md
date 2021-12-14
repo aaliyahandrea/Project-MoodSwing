@@ -69,7 +69,7 @@ Ex: clover AND terminal
 * Lambda layer creation must be done through an Amazon Machine Instance (AMI); you basically need to compile the python modules in a format that aws can recognize
 
 ## Future of This Project
-* **Topic modelling of the tweet texts to see who needs to be notified**
+* **Topic modeling of the tweet texts to see who needs to be notified**
     * Ex: some neutral tweets ask for some sort of email address or contact information, so we can tag these tweets with an info tag
 * Modifying for other enterprise usage.
     * Mass twitter searches for specific things
